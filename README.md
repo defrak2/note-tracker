@@ -20,10 +20,6 @@ Go to: https://note-tracker-fml4.onrender.com to see the application running.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
 
 ![landing page](/images/screenshot1.png)
 ![notes page with input for a new note](/images/screenshot2.png)
